@@ -1,6 +1,6 @@
 # AICA: WiSTEM
 
-- Nella segunte repository possiamo trovare il sito realizzato per il progetto AICA
+> Nella segunte repository possiamo trovare il sito realizzato per il progetto AICA
 
 Membri:
 - Gila Diego
