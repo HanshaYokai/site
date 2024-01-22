@@ -1,0 +1,47 @@
+WiSTEM Creative Attribution License (CPAL) Version 1.0
+
+Preamble:
+
+The WiSTEM software is a collaborative work that incorporates various free and open-source software components. To encourage the continued growth and development of open-source projects, this license grants users the freedom to use, modify, and distribute WiSTEM, while ensuring proper attribution to the original authors.
+
+License Terms:
+
+Grant of Rights:
+
+You are free to:
+Use WiSTEM for any purpose, including commercial purposes.
+Modify WiSTEM to suit your needs.
+Distribute WiSTEM and your modifications.
+Use WiSTEM in your own projects.
+
+Attribution:
+
+If you distribute or publicly display WiSTEM, you must:
+Include a copy of this license with any distribution or substantial portion of WiSTEM.
+Provide proper attribution to the original authors of WiSTEM, along with a link to the original source.
+
+No Warranty:
+
+WiSTEM is provided "as is," without warranty of any kind. The authors are not liable for any damages arising from the use/distribution of WiSTEM.
+
+Compatibility:
+
+If you modify WiSTEM or use it in other projects, the resulting work must also be released under the terms of this license.
+
+How to Provide Attribution:
+
+When crediting the authors of WiSTEM, please include the following information:
+
+Original Authors: 
+- Gila Diego
+- Petrache Albert
+- Venino Emanuela
+- Soddu Massimo
+- Zana Martina
+- Boniperti Lorenzo
+- Cesano Niccolo
+Project Name: WiSTEM
+Original Source: https://github.com/HanshaYokai/site
+Contact Information:
+
+For any inquiries or suggestions regarding this license, please contact diegogila6@gmail.com .
